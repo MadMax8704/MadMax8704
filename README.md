@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Norbert Madarasz.
 - 👀 I’m interested in Frontend development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on junior developers.
 - 📫 How to reach me ...
 
